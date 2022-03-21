@@ -1,0 +1,9 @@
+1.	Validar si son dos o tres variables.
+2.	Mostrar ejes. Dar la opción de mostrarlos o no.
+3.	Poder activar o desactivar el tamaño ajustado del gráfico matemático a la ventana.
+4.	Mostrar la ecuación en el gráfico (opcional).
+5.	Guardar los parámetros a archivo o a base de datos.
+6.	Generar imagen .JPG con el gráfico.
+7.	Generar video .MP4 con el gráfico 4D.
+8.	Activar anaglifos y configurar separación de ojos y colores.
+9.	Permitir activar líneas ocultas o no
